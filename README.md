@@ -1,4 +1,4 @@
-# 👋 Привет! Я idnyakrytoi-afk
+# 👋 Привет! Я Zakuril
 
 ## 🧑‍💻 Обо мне
 
@@ -54,5 +54,5 @@
 ## 📌 Ссылки
 
 - 🐙 GitHub: [idnyakrytoi-afk](https://github.com/idnyakrytoi-afk)
-- 🎬 YouTube: [@idnyakrytoi-afk](https://www.youtube.com/@idnyakrytoi-afk)
+- 🎬 YouTube: [@zakurilovv](https://www.youtube.com/@zakurilovv)
 - 🔥 BullMC Releases: [скачать лаунчер](https://github.com/idnyakrytoi-afk/bulauncher/releases)
