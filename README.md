@@ -5,7 +5,7 @@
 - 🎮 Разрабатываю собственный Minecraft-лаунчер **BullMC Client Launcher**.
 - 🚀 Делаю упор на скорость, удобный интерфейс, моды, сборки и нормальную диагностику ошибок.
 - 🧩 Учусь превращать идеи в реальные приложения: от UI до релизов `.jar`, `.exe`, `.msi`.
-- 🎬 YouTube: [@idnyakrytoi-afk](https://www.youtube.com/@idnyakrytoi-afk)
+- 🎬 YouTube: [@zakurilovv](https://www.youtube.com/@zakurilovv)
 
 ## 💻 Технологический стек
 
